@@ -4,9 +4,10 @@
 ## comandos utilizados
 ## git init
 ## git add .
-## git commit -m"MENSAGEM DO COMMIT"
 ## git status
+## git commit -m"MENSAGEM DO COMMIT"
 ## git remote add origin URL_DO_GITHUB
 ## git push -u origin main
+
 
 
